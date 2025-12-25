@@ -1,6 +1,4 @@
-// Pattern Name: Right Angle Triangle
-// Description : Prints a right angle traingle star pattern
-// Author      : Devashish Gorai
+
 
 
 #include <bits/stdc++.h>
