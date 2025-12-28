@@ -26,3 +26,12 @@ int main()
     print(n);
     return 0;
 }
+
+// pattern output(n=4)
+// *
+// **
+// ***
+// ****
+// ***
+// **
+// *
