@@ -1,0 +1,29 @@
+// Pattern Name: Alphabetic right angle triangle Pattern
+// Description : Prints a right angle traingle pattern like strucutre using Alphabets
+// Author      : Devashish Gorai
+
+#include<bits/stdc++.h>
+using namespace std;
+
+void print(int n){
+    for( int i =0; i<n; i++){
+        char ch = 'A'+ i;
+        for( int j=0; j<=i; j++){
+            cout << ch <<" ";
+        }
+        cout << endl;
+    }
+}
+int main(){
+    int n;
+    cin >> n;
+    print(n);
+    return 0;
+}
+
+//Pattern Output;
+// A
+// B B
+// C C C
+// D D D D
+// E E E E E
