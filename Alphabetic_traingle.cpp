@@ -1,5 +1,5 @@
-// Pattern Name: Numeric right angle triangle Pattern
-// Description : Prints a right angle traingle pattern like strucutre using numbers of 1 & 0
+// Pattern Name: Alphabetic right angle triangle Pattern
+// Description : Prints a right angle traingle pattern like strucutre using Alphabets
 // Author      : Devashish Gorai
 
 #include<bits/stdc++.h>

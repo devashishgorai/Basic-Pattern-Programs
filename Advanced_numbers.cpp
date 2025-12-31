@@ -34,7 +34,7 @@ int main() {
     return 0;
 }
 
-//Pattern Output (n=4):
+//Pattern Output  s(n=4):
 // 1      1
 // 12    21
 // 123  321
